@@ -1,0 +1,12 @@
+{
+  "name": "extension",
+  "displayName": "extension",
+  "expo": {
+    "name": "extension",
+    "slug": "extension",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
